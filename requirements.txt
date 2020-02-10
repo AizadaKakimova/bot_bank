@@ -1,0 +1,5 @@
+telegrambotapi
+pytelegrambotapi
+pydub
+ffmpy
+ffmpeg
